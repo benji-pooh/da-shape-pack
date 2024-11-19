@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 24 13.7">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#New_Gradient_Swatch_1);
+      }
+    </style>
+    <linearGradient id="New_Gradient_Swatch_1" data-name="New Gradient Swatch 1" x1="0" y1="6.85" x2="24" y2="6.85" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#c70000"/>
+      <stop offset=".02" stop-color="#c20105"/>
+      <stop offset=".05" stop-color="#b50516"/>
+      <stop offset=".07" stop-color="#a00c31"/>
+      <stop offset=".11" stop-color="#821657"/>
+      <stop offset=".14" stop-color="#5c2388"/>
+      <stop offset=".17" stop-color="#2f32c2"/>
+      <stop offset=".21" stop-color="#0042ff"/>
+      <stop offset=".22" stop-color="#1639fb"/>
+      <stop offset=".26" stop-color="#4327f3"/>
+      <stop offset=".3" stop-color="#6819ec"/>
+      <stop offset=".34" stop-color="#850ee7"/>
+      <stop offset=".38" stop-color="#9a06e3"/>
+      <stop offset=".42" stop-color="#a601e1"/>
+      <stop offset=".46" stop-color="#ab00e1"/>
+      <stop offset=".49" stop-color="#832be4"/>
+      <stop offset=".54" stop-color="#4b68ea"/>
+      <stop offset=".58" stop-color="#2294ee"/>
+      <stop offset=".62" stop-color="#09aff1"/>
+      <stop offset=".64" stop-color="#00baf2"/>
+      <stop offset=".79" stop-color="#04ccff"/>
+      <stop offset=".82" stop-color="#0291b6"/>
+      <stop offset=".85" stop-color="#015d75"/>
+      <stop offset=".87" stop-color="#013542"/>
+      <stop offset=".89" stop-color="#00181e"/>
+      <stop offset=".91" stop-color="#000608"/>
+      <stop offset=".92" stop-color="#000"/>
+    </linearGradient>
+  </defs>
+  <g id="_Layer_" data-name="&amp;lt;Layer&amp;gt;">
+    <path class="cls-1" d="M11.29,13.7h-4.45v-2.81H0V0h24v10.89h-12.71v2.81ZM8.36,12.18h1.41v-2.81h2.93V1.52h-4.35v10.66ZM21.07,9.37h1.41V1.52h-8.26v7.85h1.41V3.57h1.52v5.8h2.39V3.57h1.52v5.8ZM4.45,9.37h2.39V1.52H1.52v7.85h1.41V3.57h1.52v5.8ZM11.29,7.32h-1.52v-3.75h1.52v3.75Z"/>
+  </g>
+</svg>
